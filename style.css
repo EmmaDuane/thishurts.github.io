@@ -1,6 +1,6 @@
 body{
     background-color: #B9FFBB;
-    font-family: sans-serif, "Helvetica";
+    font-family: sans-serif, "Verdana";
     margin-left: 25px;
     margin-right: 25px;
 }
@@ -55,4 +55,10 @@ a:hover{
     body{
         font-size: .8em;
     }
+}
+.sectionTitle{
+    position: relative;
+    text-align: center;
+    color: #987FF9;
+    text-decoration: underline solid 2px
 }
